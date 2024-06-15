@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: chap-00/title-page
+- file: chap-01/setup
+- file: chap-02/lang-essentials
